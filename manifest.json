@@ -8,14 +8,14 @@
   "orientation": "landscape",
   "icons": [
     {
-      "src": "/favicon-192x192.png",
+      "src": "https://raw.githubusercontent.com/Lookup1234/hxngaming-pwa/main/Galaxy%20hopper1.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "/favicon-512x512.png",
+      "src": "https://raw.githubusercontent.com/Lookup1234/hxngaming-pwa/main/Galaxy%20hopper2.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     }
   ],
   "id": "com.lookup1234.galaxyhopper",
