@@ -16,6 +16,16 @@
       "src": "https://raw.githubusercontent.com/Lookup1234/hxngaming-pwa/main/Galaxy%20hopper2.jpg",
       "sizes": "512x512",
       "type": "image/jpeg"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Lookup1234/hxngaming-pwa/refs/heads/main/Galaxy%20hopper3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/Lookup1234/hxngaming-pwa/refs/heads/main/Galaxy%20hopper4.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "id": "com.lookup1234.galaxyhopper",
