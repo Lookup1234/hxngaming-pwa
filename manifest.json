@@ -1,6 +1,7 @@
 {
   "name": "Galaxy Hopper",
   "short_name": "Hopper",
+  "description": "A fun, fast-paced platformer where your hero collects coins, defeats enemies, and hops through the galaxy.",
   "start_url": "https://hxngaming.blogspot.com/",
   "display": "standalone",
   "background_color": "#000000",
